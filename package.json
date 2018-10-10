@@ -1,0 +1,23 @@
+{
+  "name": "hrelectrondemo",
+  "version": "1.0.0",
+  "description": "a electron demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neilyoTracer/hrElectron.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neilyoTracer/hrElectron/issues"
+  },
+  "homepage": "https://github.com/neilyoTracer/hrElectron#readme",
+  "devDependencies": {
+    "electron": "^3.0.3"
+  }
+}
